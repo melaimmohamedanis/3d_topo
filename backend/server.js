@@ -1,4 +1,4 @@
-/*
+
 const express = require('express');
 const axios = require('axios');
 const cors = require('cors');
@@ -47,4 +47,3 @@ app.get('/api/terrain', async (req, res) => {
 });
 
 app.listen(3001, () => console.log('Backend Debugger running on http://localhost:3001'));
-*/
